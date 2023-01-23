@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is James Drayton Beninger, but my friends call me Drayton. I was born in Canada, but I mostly grew up in Bangladesh, Indonesia, and Barbados. I love to work on 
+fine-grained practical programming projects, but I'm always interested in learning more about techniques and address larger questions. 
+
+I recently graduated from the University of British Columbia with a Bachelor's in Cognitive Systems. This allowed me to learn computer science while supplementing my 
+learning with courses from psychology and philosophy. My favorite areas of study are AI and functional programming, but I've taken classes and finished projects in other
+fields as well. You can see a list of projects I've worked on below. Everything highlighted in blue has demos that you can click on and try, while 
+everything else is either too abstract to put in a demo or is a work in progress. Feel free to take a look!
+
