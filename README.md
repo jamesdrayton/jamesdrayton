@@ -20,8 +20,12 @@ fine-grained practical programming projects, but I'm always interested in learni
 
 I recently graduated from the University of British Columbia with a Bachelor's in Cognitive Systems. This allowed me to learn computer science while supplementing my 
 learning with courses from psychology and philosophy. My favorite areas of study are AI and functional programming, but I've taken classes and finished projects in other
-areas as well. Right now I'm reviewing Markov decision chains and applying them to Python. Check out my practice model of the [Hallway Problem](https://github.com/jamesdrayton/Hallway-Problem) using Bayes' theorem. 
+areas as well. Right now I'm reviewing Markov decision chains and applying them to Python. 
 
-Some of my older projects:
+Some of my projects:
 - [UBC "Vanlab" Tempo determination experiment software](https://github.com/jamesdrayton/Tempo) is a full-stack dev project using Node.js, express, and more.
 - [EGaDS! Open Project 2022](https://github.com/jamesdrayton/EGaDS-Open-Project) is a collaborative Unity project with the UT Austin game dev society.
+- [Hallway Problem](https://github.com/jamesdrayton/Hallway-Problem) is a basic recreation of the hallway problem using Python and Bayes' theorem.
+
+Take a look at my [website](https://jamesdrayton.github.io) for demos of some of my projects and more!
+If you'd like to see how I made it the source code is available [here](https://github.com/jamesdrayton/jamesdrayton.github.io).
