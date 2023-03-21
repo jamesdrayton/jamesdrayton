@@ -24,7 +24,7 @@ areas as well. Right now I'm reviewing Markov decision chains and applying them 
 
 Some of my projects:
 - [UBC "Vanlab" Tempo determination experiment software](https://github.com/jamesdrayton/Tempo) is a full-stack dev project using Node.js, express, and more.
-- [EGaDS! Open Project 2022](https://github.com/jamesdrayton/EGaDS-Open-Project) is a collaborative Unity project with the UT Austin game dev society.
+- [EGaDS! Open Project 2022](https://github.com/digocorbellini/EGaDS-Open-Project) is a collaborative Unity project with the UT Austin game dev society.
 - [Hallway Problem](https://github.com/jamesdrayton/Hallway-Problem) is a basic recreation of the hallway problem using Python and Bayes' theorem.
 
 Take a look at my [website](https://jamesdrayton.github.io) for demos of some of my projects and more!
