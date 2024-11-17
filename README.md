@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is James Drayton Beninger, but my friends call me Drayton. I was born in Canada, but I mostly grew up in Bangladesh, Indonesia, and Barbados. I love to work on 
+My name is James Drayton Beninger, but my friends call me Drayton. I was born in Canada, but I grew up living in Bangladesh, Indonesia, and Barbados. I love to work on 
 fine-grained practical programming projects, but I'm always interested in learning more about techniques and address larger questions. 
 
 I recently graduated from the University of British Columbia with a Bachelor's in Cognitive Systems. This allowed me to learn computer science while supplementing my 
